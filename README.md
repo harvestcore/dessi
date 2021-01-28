@@ -5,6 +5,7 @@
 
 Este repositorio contiene todo el trabajo que se ha realizado para la creación de Foroquejas. La estructura de directorios es la siguientes:
 
+- `Producto final` Contiene el [producto final](ProductoFinal/README.md).
 - `web` Página web de Foroquejas.
 - `P1` Canvas de Foroquejas, mapa mental y primeros documentos.
 - `P2` Documento de visión, personajes y escenarios.
@@ -15,6 +16,9 @@ Este repositorio contiene todo el trabajo que se ha realizado para la creación 
 Árbol del repo:
 
 ```bash
+├── ProductoFinal
+│   ├── cambios.txt
+│   ├── README.md
 ├── P1
 │   ├── Canvas.jpg
 │   ├── Canvas_Foroquejas.pdf
